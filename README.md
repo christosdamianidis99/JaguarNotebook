@@ -20,9 +20,8 @@ Simplify your note-taking experience on Android with Jaguar Notebook. This open-
 
 Follow these instructions to get a copy of your project up and running on your local machine for development and testing purposes.
 
-1. **Prerequisites:** Include any prerequisites or dependencies users need to install before using your app.
-2. **Installation:** Step-by-step guide on how to install your app.
-3. **Usage:** How to use your app, including examples and code snippets.
+1. **Installation:** Step-by-step guide on how to install your app.
+2. **Usage:** How to use your app, including examples and code snippets.
 
 ## Contributing
 
