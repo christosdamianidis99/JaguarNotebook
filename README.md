@@ -1,6 +1,12 @@
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Chrisdamia99/JaguarNotebook.svg)]([https://github.com/YourUsername/YourRepo/stargazers](https://github.com/Chrisdamia99/JaguarNotebook/stargazers))
+[![GitHub forks](https://img.shields.io/github/forks/Chrisdamia99/JaguarNotebook.svg)]([https://github.com/YourUsername/YourRepo/network](https://github.com/Chrisdamia99/JaguarNotebook/forks))
+[![GitHub issues](https://img.shields.io/github/issues/Chrisdamia99/JaguarNotebook.svg)]([https://github.com/YourUsername/YourRepo/issues](https://github.com/Chrisdamia99/JaguarNotebook/issues))
+
 # Jaguar Notebook
 
 Simplify your note-taking experience on Android with Jaguar Notebook. This open-source app allows you to create, update, and manage notes effortlessly.
+
 
 
 ## Features
